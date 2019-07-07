@@ -6,7 +6,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f https://github.com/Sirice19/Resume-vuepress.git master:gh-pages
+git push -f https://github.com/Siricee/Resume-vuepress.git master:gh-pages
 
 cd -
 

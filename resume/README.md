@@ -4,8 +4,8 @@
     <li><span>电话(微信)</span>188 4642 8543</li>
     <li><span>QQ</span>1165728679</li>
     <li><span>邮箱</span><a href="mailto:sirice@163.com">sirice@163.com</a></li>
-    <li><span>Github</span><a href="https://github.com/Sirice19">github.com/Sirice19</a></li>
-    <li><span>Blog</span><a href="https://sirice19.github.io">sirice19.github.io</a></li>
+    <li><span>Github</span><a href="https://github.com/Siricee">github.com/Siricee</a></li>
+    <li><span>Blog</span><a href="https://siricee.github.io">siricee.github.io</a></li>
   </ul>
 </h1>
 
@@ -31,11 +31,11 @@
 
 ## 个人项目
 
-### [Hexo主题Chic](https://github.com/Sirice19/hexo-theme-Chic)<span class="role">:&nbsp;前端开发</span><span class="right">2019.6.2 - 2019.6.12</span>
+### [Hexo主题Chic](https://github.com/Siricee/hexo-theme-Chic)<span class="role">:&nbsp;前端开发</span><span class="right">2019.6.2 - 2019.6.12</span>
 * 技术栈：**Node.js平台Hexo/Ejs模板引擎/Stylus预处理器**
 * 该项目为Hexo博客系统下的主题（即静态页的渲染模板），现已发布至hexo官方主题平台。
 * 简约风格设计，模块化页面开发。支持Light/Dark主题切换。支持响应式布局，适配移动端。
-* 该项目[预览地址](https://sirice19.github.io/hexo-theme-Chic/)
+* 该项目[预览地址](https://siricee.github.io/hexo-theme-Chic/)
 ---
 ### 心理测试数据分析平台<span class="role">:&nbsp;全栈开发</span><span class="right">2019.2 -  2019.5</span>
 * 技术栈：**Vue.js/Element/Echart.js/Mock.js/SpringBoot/MySQL**

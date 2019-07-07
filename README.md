@@ -1,6 +1,6 @@
 ## 我的简历
 
-本项目为我的电子简历。[点击这里查看简历](https://sirice19.github.io/Resume-vuepress/)
+本项目为我的电子简历。[点击这里查看简历](https://siricee.github.io/Resume-vuepress/)
 
 ### 简介
 
@@ -23,7 +23,7 @@ Chrome 页面中右键 -> 打印 -> 另存为 pdf。
 ### 使用
 
 ```bash
-git clone https://github.com/Sirice19/Resume-vuepress.git
+git clone https://github.com/Siricee/Resume-vuepress.git
 cd Resume-vuepress
 npm install
 ```
@@ -144,4 +144,4 @@ vuepress build resume	# 生产模式
 
 添加页面时在`resume`内增加文件夹并添加默认README.md，然后在`resume\.vuepress\config.js`中`sidebar`字段添加信息即可，此处可参考[官方文档|目录结构](https://v1.vuepress.vuejs.org/zh/guide/directory-structure.html)。
 
-Author：[@Sirice](https://github.com/Sirice19)   License：MIT
+Author：[@Sirice](https://github.com/Siricee)   License：MIT
