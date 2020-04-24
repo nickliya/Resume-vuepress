@@ -3,7 +3,6 @@
     <slot name="top"/>
 
     <Content class="theme-default-content content"/>
-
     <footer class="page-edit">
       <div
         class="edit-link"
