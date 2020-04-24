@@ -7,6 +7,8 @@
 
 通过本项目，你可以使用 Markdown 书写简历，并通过 VuePress 部署为可预览的页面。
 
+[点击此处预览项目](https://siricee.github.io/Resume-vuepress)
+
 来源于这个项目 [wannaxiao/vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume)<br>
 原项目依赖`VuePress v0.10.0`，本人在VuePress更新至正式版`v1.0.2`时将其重写。
 
