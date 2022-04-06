@@ -7,10 +7,10 @@
     "dev": "vuepress dev resume",
     "build": "vuepress build resume"
   },
-  "author": "Sirice <sirice@163.com>",
+  "author": "Yongchin <yongchin39@qq.com>",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^v1.0.2"
+    "vuepress": "latest"
   },
   "engines": {
     "node": ">= 6.0.0",

@@ -10,7 +10,7 @@ git add -A
 git commit -m 'deploy'
 
 # change url below to yours.
-git push -f https://github.com/Siricee/Resume-vuepress.git master:gh-pages
+git push -f https://github.com/nickliya/Resume-vuepress.git master:gh-pages
 
 cd -
 
