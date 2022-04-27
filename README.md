@@ -4,7 +4,7 @@
 
 通过本项目，你可以使用 Markdown 书写简历，并通过 VuePress 部署为可预览的页面。
 
-[点击此处预览项目](https://nickliya.github.io/Resume-vuepress)
+[点击此处预览项目](https://yongchin0821.github.io/Resume-vuepress)
 
 ### 依赖
 
@@ -21,7 +21,7 @@
   
 
 ```bash
-git clone https://github.com/nickliya/Resume-vuepress.git
+git clone https://github.com/yongchin0821/Resume-vuepress.git
 
 cd Resume-vuepress
 
@@ -186,4 +186,4 @@ cd -
 
 ---
 
-Author：[@Yongchin](https://github.com/nickliya)
+Author：[@Yongchin](https://github.com/yongchin0821)
